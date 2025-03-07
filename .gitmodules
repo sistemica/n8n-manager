@@ -4,3 +4,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/sistemica/n8n-manager-frontend
+[submodule "traefik-path-param-headers"]
+	path = traefik-path-param-headers
+	url = https://github.com/sistemica/traefik-path-param-headers
